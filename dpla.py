@@ -52,8 +52,6 @@ try:
       # Subject - DPLA
       dpla_sub_req = "http://api.dp.la/v2/items?api_key=%s&sourceResource.subject=%s&page_size=0" % (dp_api_key, name)
 
-      req = "http://api.dp.la/v2/items?api_key=%s&sourceResource.subject=%s&page_size=0" % (dp_api_key, name)
-
       mwdl_cr_resp  = requests.get(mwdl_cr_req)
       dpla_cr_resp  = requests.get(dpla_cr_req)
       mwdl_sub_resp = requests.get(mwdl_sub_req)
