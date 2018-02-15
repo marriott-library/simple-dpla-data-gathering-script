@@ -14,11 +14,11 @@ The script also requires a [DPLA](https://dp.la) API key. This can be used by ei
 
 * [Python](https://www.python.org) >= version 2.0
 * [SQLite3](https://www.sqlite.org/)
-* [SQLite3 Python Library](https://docs.python.org/2/library/sqlite3.html).
+* [SQLite3 Python Library](https://docs.python.org/2/library/sqlite3.html)
 
 ## Authors
 
-* **[Jacob Reed](jacob.reed@utah.edu)** - design and development
+* **[Jacob Reed](jacob.reed@utah.edu)** - development
 * **[Anna Neatrour](anna.neatrour@utah.edu)** - planning and testing
 
 ## License
